@@ -14,7 +14,7 @@ How to setup webhook?
 
 How to start the bot?
 - Install python, open the terminal and type `pip install -r requirements.txt`
-- Then type `main.py`
+- Then type `python main.py`
 
 OR
 
