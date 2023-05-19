@@ -1,5 +1,4 @@
 import datetime, os
-from colorama import Fore, Style
 
 os.system("")
     
