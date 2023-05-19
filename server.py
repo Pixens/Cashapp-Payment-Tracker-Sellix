@@ -1,5 +1,4 @@
 import flask, json, requests, threading, datetime
-from colorama import Fore, Style
 from flask import request
 from log import *
 
