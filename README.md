@@ -18,8 +18,8 @@ How to start the bot?
 
 OR
 
-- Go to releases and download the compiled version.
-- Run main.exe
+- Go to `releases` and download the compiled version.
+- Run `main.exe`
 
 
 (log.py is just print because I don't want the logs with skids)
