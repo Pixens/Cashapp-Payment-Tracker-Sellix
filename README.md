@@ -16,11 +16,6 @@ How to start the bot?
 - Install python, open the terminal and type `pip install -r requirements.txt`
 - Then type `python main.py`
 
-OR
-
-- Go to `releases` and download the compiled version.
-- Run `main.exe`
-
 P.S:
 - Please leave a star for my efforts of explaining to so well :)
 - log.py is just print because I don't want the logs with skids
