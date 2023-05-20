@@ -9,7 +9,7 @@ How to setup webhook?
 - Run the command `ngrok http 6969` to open the 6969 port.
 - Copy the `Forwarding` URL.
 - Go to https://dashboard.sellix.io/developer/webhooks/all. Click on `Add Webhooks Endpoint`.
-- Type: `Sellix`, Webhook URL: `The URL you copied/cashapp`, Event: `Order:Paid`.
+- Type: `Sellix`, Webhook URL: `(The URL you copied)/cashapp`, Event: `Order:Paid`.
 - Click on `Add Webhook Endpoint`
 
 How to start the bot?
